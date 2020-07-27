@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=jopemachine&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jopemachine/jopemachine)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jopemachine&hide=css,c&layout=compact)](https://github.com/jopemachine/jopemachine)
+-->
