@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats-jopemachine-deploy.vercel.app/api?username=jopemachine&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jopemachine/jopemachine)
+<!-- profile view
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jopemachine" alt="jopemachine" /> </p>
+-->
 
-<!--
+<p align="center"> <img src="https://github-readme-stats-jopemachine-deploy.vercel.app/api?username=jopemachine&count_private=true&show_icons=true&theme=tokyonight" alt="jopemachine" /> </p>
+
+<!-- top langs (incorrect)
 [![Top Langs](https://github-readme-stats-jopemachine-deploy.vercel.app/api/top-langs/?username=jopemachine&hide=css,c&layout=compact)](https://github.com/jopemachine/jopemachine)
 -->
