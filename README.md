@@ -1,26 +1,30 @@
-### Hi there 👋
+# About me
 
-<!--
-**jopemachine/jopemachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <img src="https://komarev.com/ghpvc/?username=jopemachine" alt="jopemachine" /> </p>
 
-Here are some ideas to get you started:
+<p> <img src="https://github-readme-stats-jopemachine-deploy.vercel.app/api?username=jopemachine&count_private=true&show_icons=true" alt="jopemachine" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience 
 
-<!-- profile view
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jopemachine" alt="jopemachine" /> </p>
--->
+<!-- TODO: Write more description here...  -->
+<!-- * (20.03 ~ 20.08) maintenance Enertalk -->
 
-<img src="https://github-readme-stats-jopemachine-deploy.vercel.app/api?username=jopemachine&count_private=true&show_icons=true" alt="jopemachine" />
+* Familiar language: `Javascript`, `C++`
 
-<!-- top langs (incorrect)
-[![Top Langs](https://github-readme-stats-jopemachine-deploy.vercel.app/api/top-langs/?username=jopemachine&hide=css,c&layout=compact)](https://github.com/jopemachine/jopemachine)
--->
+## Interest
+
+* Contributing to open source.
+* Developing tools that can save someone's time.
+* Recently studying: `Rust`
+* Recently interested in: [Deno](https://github.com/denoland/deno)
+
+## Present State
+
+* Working in [Encored](https://www.enertalk.com/home/) in remote.
+* Graduate student at Chungnam university.
+
+## Contact, Sites
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyu-bong-lee-a1a76b197/)](https://www.linkedin.com/in/gyu-bong-lee-a1a76b197/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gravityc95@gmail.com)](mailto:gravityc95@gmail.com)
