@@ -14,12 +14,11 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: jopemachine
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Seoul
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -35,6 +34,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
-          config_output: png
+          plugin_traffic: yes
+          config_output: svg
           config_padding: 12%          
-          config_order: base, languages, followup, isocalendar, stargazers, habits
+          config_order: base.header, base.repositories, base.activity+community, languages, followup, isocalendar, stargazers, habits
