@@ -1,10 +1,10 @@
 # About me
 
-<p> <img src="https://komarev.com/ghpvc/?username=jopemachine" alt="jopemachine" /> </p>
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=jopemachine" alt="jopemachine" /> </p> -->
+
+<img src="https://github.com/jopemachine/jopemachine/blob/master/github-metrics.svg" />
 
 <!-- <p> <img src="https://github-readme-stats-jopemachine-deploy.vercel.app/api?username=jopemachine&count_private=true&show_icons=true" alt="jopemachine" /> </p> -->
-
-<p align="center"> <img src="https://github.com/jopemachine/jopemachine/blob/master/github-metrics.svg" /> </p>
 
 ## Experience 
 
