@@ -4,7 +4,7 @@
 
 <!-- <p> <img src="https://github-readme-stats-jopemachine-deploy.vercel.app/api?username=jopemachine&count_private=true&show_icons=true" alt="jopemachine" /> </p> -->
 
-![Metrics](https://github.com/jopemachine/jopemachine/blob/master/github-metrics.svg)
+<p align="center"> <img src="https://github.com/jopemachine/jopemachine/blob/master/github-metrics.svg" /> </p>
 
 ## Experience 
 
