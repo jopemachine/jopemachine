@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: jopemachine
           template: classic
-          base: header, activity, community, repositories
+          base: activity, community, repositories
           config_timezone: Asia/Seoul
           plugin_followup: yes
           plugin_isocalendar: yes
