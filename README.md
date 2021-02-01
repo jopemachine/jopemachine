@@ -22,8 +22,8 @@
 
 ## Present State
 
-* Working in [Encored](https://www.enertalk.com/home/) in remote.
-* Graduate student at Chungnam university.
+* Working in [Encored](https://encoredtech.com/) in remote.
+* Graduation scheduled at Chungnam university.
 
 ## Contact, Sites
 
