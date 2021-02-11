@@ -17,8 +17,6 @@
 
 * Contributing to open source.
 * Developing tools that can save someone's time.
-* Recently studying: `Rust`
-* Recently interested in: [Deno](https://github.com/denoland/deno)
 
 ## Present State
 
