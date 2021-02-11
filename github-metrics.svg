@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1599" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1621" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -776,7 +776,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-          179 issue comments
+          180 issue comments
         </div>
       </section>
     
@@ -3384,6 +3384,105 @@
               <section class="activity">
                 
                 
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
+                    
+                    Commented on <div class="issue">#31 Implement auth system</div>
+                  </div>
+                    <div class="details">
+                    <div>opened by jopemachine in <div class="repo">EncoredTech/Enerflow</div></div>
+                    <div class="comment">&gt; &gt; &gt; &gt; &gt; Your implementation to store third party token in app is not correct. You need to connect enerflow account id with social network id.
+&gt; 
+&gt; &gt; &gt; &gt; &gt; For a minimum example, there gonna be a DB table in the backend to match enertalk id and social network id.
+&gt; 
+&gt; &gt; &gt; &gt; &gt; Eg:
+&gt; 
+&gt; &gt; &gt; &gt; &gt; ID Provider thirdPartyId AccessToken
+&gt; 
+&gt; &gt; &gt; &gt; &gt; 1 facebook 13231 fefefefe
+&gt; 
+&gt; &gt; &gt; &gt; &gt; 2 google 52344 fefvcvcv
+&gt; 
+&gt; &gt; &gt; &gt; &gt; Your implementation using Facebook, Google library is the wrong use case in the app.
+&gt; 
+&gt; &gt; &gt; &gt; 
+&gt; 
+&gt; &gt; &gt; &gt; 
+&gt; 
+&gt; &gt; &gt; &gt; Backend server issues Enerflow's token, not third party token.
+&gt; 
+&gt; &gt; &gt; &gt; So, the token to store in the app is not a third-party token.
+&gt; 
+&gt; &gt; &gt; &gt; This PR's code just sends user email and social network id, third-party token when third-party token is done.
+&gt; 
+&gt; &gt; &gt; &gt; I've thought how the information is handled in the backend is independent of this PR.
+&gt; 
+&gt; &gt; &gt; &gt; (Maybe server need to validate this third-party token and could use the db table you mentioned)
+&gt; 
+&gt; &gt; &gt; &gt; If using libs itself could be the problem, or if there's any other problems, please let me know.
+&gt; 
+&gt; &gt; &gt; &gt; I will try to refactor it using oauth url.
+&gt; 
+&gt; &gt; &gt; &gt; I appreciate your feedback.
+&gt; 
+&gt; &gt; &gt; 
+&gt; 
+&gt; &gt; &gt; 
+&gt; 
+&gt; &gt; &gt; In your implementation, how can we get the token from enertalk??
+&gt; 
+&gt; &gt; 
+&gt; 
+&gt; &gt; I think we could consider Enertalk's accessToken independent from Enerflow's like other third-party tokens.
+&gt; 
+&gt; &gt; users can connect green button account to Enerflow's account if they want to fetch green button's data, and to do so, users need to login by their account.
+&gt; 
+&gt; &gt; Likewise, I think users need to login to Enertalk's account by oauth in separate login page to fetch their Enertalk's data.
+&gt; 
+&gt; &gt; Once logged in, we could save the value in the db of Enerflow and use it later as you mentioned.
+&gt; 
+&gt; &gt; I'm working on the assumption that Enerflow's backend should be separate server.
+&gt; 
+&gt; &gt; 
+&gt; 
+&gt; &gt; I'm aware that my thoughts could be wrong.
+&gt; 
+&gt; &gt; So, I'd appreciate it if you point out anything wrong.
+&gt; 
+&gt; 
+&gt; 
+&gt; You don't need to ask the user to log in twice(Login Google/Facebook, login enertalk). You can check any app's social network login, no app is asking the user to log in twice.
+&gt; 
+&gt; 
+
+I think the reason why login is required twice is that Enertalk api is considered third party api fetching data by oauth, like green button.
+
+To fetch from green button, users should login by their green button account one more time. 
+
+I assume users do not need to login Enertalk account essentially. Users can connect their account to Enertalk in Connect page if they want.
+
+
+</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
                 
                 
                   <div class="field">
@@ -3483,39 +3582,6 @@
                     
                       <div class="commit">
                         <div class="sha">#eb0b36e</div>
-                        <div class="message">Update main.yml</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">jopemachine/jopemachine</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#019d6df</div>
                         <div class="message">Update main.yml</div>
                       </div>
                     
