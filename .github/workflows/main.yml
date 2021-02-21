@@ -23,7 +23,9 @@ jobs:
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_visibility: all
           plugin_languages: yes
+          plugin_languages_visibility: all
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2% (🚧 @master feature)
           plugin_habits: yes
@@ -31,15 +33,24 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_visibility: all
           plugin_stargazers: yes
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
+          plugin_topics_visibility: all
           plugin_traffic: yes
           plugin_activity: yes
           plugin_activity_limit: 5    # Limit to 5 events
           plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: push, pr, issue, comment, review, fork # Show all events (use table above to filter events types):  
+          plugin_activity_visibility: public
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci       # Command to setup target repository
+          plugin_licenses_ratio: yes          # Display used licenses ratio
+          plugin_licenses_legal: yes          # Display permissions, limitations and conditions
+          plugin_licenses_visibility: all
           config_output: svg
           config_padding: 12%          
-          config_order: base.header, base.repositories, base.activity+community, languages, followup, isocalendar, stargazers, habits, activity
+          config_order: base.header, base.repositories, base.activity+community, languages, followup, license, isocalendar, stargazers, habits, activity
+
