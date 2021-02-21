@@ -54,6 +54,6 @@ jobs:
           plugin_activity_timestamps: yes
 
           config_output: svg
-          config_padding: 12%          
+          config_padding: 5%          
           config_order: base.header, base.repositories, base.activity+community, languages, followup, license, isocalendar, stargazers, habits, activity
 
