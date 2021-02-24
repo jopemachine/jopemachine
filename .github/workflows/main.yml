@@ -20,11 +20,11 @@ jobs:
           # Options
           user: jopemachine
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
 
           config_output: svg
           config_timezone: Asia/Seoul
-          config_order: base.metadata, base.header, base.repositories, base.activity+community, languages, followup, license, isocalendar, stargazers, habits, activity
+          config_order: base.header, base.repositories, base.activity+community, languages, followup, isocalendar, stargazers, habits, activity
           config_twemoji: yes
 
           plugin_activity: yes
@@ -44,8 +44,7 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
-          plugin_languages_threshold: 2%                               # Hides all languages less than 2% (🚧 @master feature)
-
+ 
           plugin_lines: yes
 
           plugin_habits: yes
