@@ -14,7 +14,6 @@
 
 ## Present State
 
-* Working in [Encored](https://encoredtech.com/) in remote.
 * Graduation scheduled at Chungnam university.
 
 ## My Programming Languages Spectrum
