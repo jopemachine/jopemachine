@@ -14,10 +14,6 @@
 * Contributing to open source.
 * Developing tools that can save someone's time.
 
-## Present State
-
-* Graduation scheduled at Chungnam university.
-
 ## My Programming Languages Spectrum
 
 |      | 💔️     | ❤️ ️                          | ❤️❤️ ️                   | ❤️❤️❤️ ️ |
