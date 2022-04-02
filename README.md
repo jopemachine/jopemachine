@@ -2,13 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jopemachine&count_private=true&show_icons=true)
 
-## Experience 
-
-<!-- TODO: Write more description here...  -->
-<!-- * (20.03 ~ 20.08) maintenance Enertalk -->
-
-* Familiar language: `Javascript`, `C++`
-
 ## Interest
 
 * Contributing to open source.
