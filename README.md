@@ -14,15 +14,6 @@
 * Contributing to open source.
 * Developing tools that can save someone's time.
 
-## My Programming Languages Spectrum
-
-|      | 💔️     | ❤️ ️                          | ❤️❤️ ️                   | ❤️❤️❤️ ️ |
-| :----: | :-----: | :----: | :----: | :----: |
-| 😅    |       | ``Assembly``                | `Python`              |   `Go`, `Rust`   |
-| 🧐    | `VBA`, `Applescript` | `Batchfile`,  `Shell`, `PHP`, `C` | `C#`, `Java`                  |      |
-| 😏    |       |                             |  `C++`  | `Javascript`, `Typescript`     |
-| 🤓    |       |                             |                       |      |
-
 ## Contact, Sites
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jopemachine.github.io/)](https://jopemachine.github.io/)
