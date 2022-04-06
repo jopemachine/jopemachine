@@ -5,8 +5,8 @@ on:
   # Schedule updates (each hour)
   # schedule: [{cron: "0 * * * *"}]
 
-  # Schedule updates (run every 12 hour)
-  schedule: [{cron: "0 */12 * * *"}]
+  # Schedule updates (run every 24 hour)
+  schedule: [{cron: "0 */24 * * *"}]
 
   # Lines below let you run workflow manually and on each commit
   push: {branches: ["master", "main"]}
@@ -41,6 +41,9 @@ jobs:
           plugin_notable_filter: stars:>=100
           # plugin_notable_repositories: yes
           # plugin_notable_skipped: 
+          
+          plugin_reactions: yes
+          plugin_reactions_details: count
 
           plugin_activity: yes
           plugin_activity_limit: 10
@@ -69,6 +72,8 @@ jobs:
 
           # plugin_posts: yes
           # plugin_posts_limit: 4
+          # plugin_posts_covers: no
+          # plugin_posts_source: dev.to
           # plugin_posts_user: .user.login
 
           # plugin_music: yes
