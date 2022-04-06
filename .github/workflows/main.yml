@@ -31,7 +31,7 @@ jobs:
           # plugin_introduction_title: yes
 
           plugin_notable: yes
-          # plugin_notable_from: organization
+          plugin_notable_from: all
           plugin_notable_types: pull_request
           # plugin_notable_indepth: yes
           plugin_notable_filter: stars:>=2000
@@ -45,7 +45,7 @@ jobs:
           plugin_activity_visibility: public
           plugin_activity_timestamps: yes
 
-          plugin_followup: yes
+          # plugin_followup: yes
 
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
