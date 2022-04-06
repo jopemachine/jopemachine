@@ -42,8 +42,8 @@ jobs:
           # plugin_notable_repositories: yes
           # plugin_notable_skipped: 
           
-          plugin_reactions: yes
-          plugin_reactions_details: count
+          # plugin_reactions: yes
+          # plugin_reactions_details: count
 
           plugin_activity: yes
           plugin_activity_limit: 10
