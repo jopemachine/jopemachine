@@ -21,7 +21,7 @@ jobs:
           # Options
           user: jopemachine
           template: classic
-          base: header, activity, community, repositories
+          base: activity, community, repositories
 
           config_timezone: Asia/Seoul
           config_order: base.header, base.repositories, base.activity+community, languages, followup, isocalendar, habits
@@ -39,8 +39,8 @@ jobs:
           # plugin_notable_skipped: 
 
           plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_limit: 10
+          plugin_activity_days: 0    # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: pr, issue, comment, review # Show all events (use table above to filter events types):  
           plugin_activity_visibility: public
           plugin_activity_timestamps: yes
