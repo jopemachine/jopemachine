@@ -37,9 +37,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: pull_request
-          plugin_notable_indepth: yes
-          plugin_notable_filter: stars:>=100
-          plugin_notable_repositories: yes
+          plugin_notable_indepth: no
+          plugin_notable_filter: stars:>=100 maintainer:false
+          plugin_notable_repositories: no
           # plugin_notable_skipped: 
           
           # plugin_reactions: yes
