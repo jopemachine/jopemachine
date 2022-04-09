@@ -36,7 +36,7 @@ jobs:
 
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: pull_request, issue
+          plugin_notable_types: pull_request
           plugin_notable_indepth: yes
           plugin_notable_filter: stars:>=100
           plugin_notable_repositories: yes
@@ -69,8 +69,6 @@ jobs:
           # plugin_habits_charts: yes
 
           plugin_traffic: yes
-          
-          plugin_fortune: yes
 
           # plugin_posts: yes
           # plugin_posts_limit: 4
@@ -85,3 +83,9 @@ jobs:
           # plugin_music_user: .user.login
 
           # plugin_stargazers: yes
+
+          plugin_rss: yes
+          plugin_rss_source: https://jopemachine.github.io/feed.xml
+          plugin_rss_limit: 4
+
+          plugin_fortune: yes
