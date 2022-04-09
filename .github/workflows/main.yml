@@ -28,7 +28,7 @@ jobs:
           base: activity, community, repositories
 
           config_timezone: Asia/Seoul
-          config_order: base.header, base.repositories, base.activity+community, languages, followup, isocalendar, habits, activity, rss
+          config_order: base.header, base.repositories, base.activity+community, languages, notable, followup, isocalendar, habits, activity, rss
           config_twemoji: yes
 
           # plugin_introduction: yes
