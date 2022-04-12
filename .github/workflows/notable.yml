@@ -1,5 +1,5 @@
 # # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Metrics - Notable
 
 on:
   # Schedule updates (each hour)
@@ -21,7 +21,7 @@ jobs:
           filename: metrics/notable.svg
           config_output: gist
           committer_gist: 1013f1ecc0aab84223dd7a79cc020e27
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Your GitHub token
           # token: ${{ secrets.METRICS_TOKEN }}
@@ -31,16 +31,14 @@ jobs:
           # Options
           user: jopemachine
           template: classic
-          base: activity, community, repositories
 
           config_timezone: Asia/Seoul
           config_order: notable
-          config_twemoji: no
 
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: pull_request
-          plugin_notable_indepth: no
+          plugin_notable_indepth: yes
           plugin_notable_filter: stars:>=100 maintainer:false
-          plugin_notable_repositories: no
+          plugin_notable_repositories: yes
           # plugin_notable_skipped:
