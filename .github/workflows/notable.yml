@@ -33,7 +33,6 @@ jobs:
           template: classic
 
           config_timezone: Asia/Seoul
-          config_order: notable
 
           plugin_notable: yes
           plugin_notable_from: all
