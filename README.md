@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jopemachine/jopemachine/master/github-metrics.svg" />
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jopemachine&count_private=true&show_icons=true)-->
 
