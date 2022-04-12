@@ -33,6 +33,7 @@ jobs:
           template: classic
 
           config_timezone: Asia/Seoul
+          config_order: activity
 
           plugin_activity: yes
           plugin_activity_limit: 10

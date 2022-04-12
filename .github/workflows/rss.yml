@@ -33,6 +33,7 @@ jobs:
           template: classic
 
           config_timezone: Asia/Seoul
+          config_order: rss
 
           plugin_rss: yes
           plugin_rss_source: https://jopemachine.github.io/feed.xml

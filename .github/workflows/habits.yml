@@ -33,6 +33,7 @@ jobs:
           template: classic
 
           config_timezone: Asia/Seoul
+          config_order: habits
 
           plugin_habits: yes
           plugin_habits_from: 200

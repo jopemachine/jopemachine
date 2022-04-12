@@ -33,6 +33,7 @@ jobs:
           template: classic
 
           config_timezone: Asia/Seoul
+          config_order: reactions
 
           plugin_reactions: yes
           plugin_reactions_display: absolute

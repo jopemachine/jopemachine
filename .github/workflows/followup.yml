@@ -33,5 +33,6 @@ jobs:
           template: classic
 
           config_timezone: Asia/Seoul
+          config_order: followup
 
           plugin_followup: yes
