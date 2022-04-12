@@ -15,36 +15,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: jopemachine/metrics@latest
-        with:
-          # Gist option
-          filename: metrics/notable.svg
-          config_output: gist
-          committer_gist: 1013f1ecc0aab84223dd7a79cc020e27
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Your GitHub token
-          # token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          # committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: jopemachine
-          template: classic
-          base: activity, community, repositories
-
-          config_timezone: Asia/Seoul
-          config_order: notable
-          config_twemoji: no
-
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: pull_request
-          plugin_notable_indepth: no
-          plugin_notable_filter: stars:>=100 maintainer:false
-          plugin_notable_repositories: no
-          # plugin_notable_skipped:
-
       - uses: jopemachine/metrics@latest 
         with:
           # Gist option
@@ -64,7 +34,7 @@ jobs:
           base: activity, community, repositories
 
           config_timezone: Asia/Seoul
-          config_order: base.header, base.repositories, base.activity+community, languages
+          config_order: base.header, base.repositories, base.activity+community
           config_twemoji: yes
 
           # plugin_introduction: yes
