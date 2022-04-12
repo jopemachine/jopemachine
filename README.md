@@ -1,32 +1,32 @@
-# About me 
+# 💬 About me
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
 
 <details>
-<summary>Contributions</summary>
-  
+<summary>🦄 Contributions</summary>
+
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/notable.svg)
 
 </details>
 
 <details>
-<summary>Recent Activity</summary>
-  
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/activity.svg)
+<summary>🔥 Recent Activity</summary>
+
+[![](https://github.com/jopemachine/jopemachine/blob/master/metrics/activity.svg)](https://gitstalk.netlify.app/jopemachine)
 
 </details>
 
 <details>
-<summary>Recent Coding Habits</summary>
-  
+<summary>📚 Recent Coding Habits</summary>
+
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
 
 </details>
 
 <details>
-<summary>Blog RSS feed</summary>
-  
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)
+<summary>📑 Blog RSS feed</summary>
+
+[![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
 
 </details>
 
