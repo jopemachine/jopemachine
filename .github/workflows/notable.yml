@@ -21,7 +21,7 @@ jobs:
           filename: metrics/notable.svg
           config_output: gist
           committer_gist: 1013f1ecc0aab84223dd7a79cc020e27
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Your GitHub token
           # token: ${{ secrets.METRICS_TOKEN }}
