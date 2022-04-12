@@ -1,4 +1,34 @@
+# About me 
 
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
+
+<details>
+<summary>Contributions</summary>
+  
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/notable.svg)
+
+</details>
+
+<details>
+<summary>Recent Activity</summary>
+  
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/activity.svg)
+
+</details>
+
+<details>
+<summary>Recent Coding Habits</summary>
+  
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
+
+</details>
+
+<details>
+<summary>Blog RSS feed</summary>
+  
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)
+
+</details>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jopemachine&count_private=true&show_icons=true)-->
 
