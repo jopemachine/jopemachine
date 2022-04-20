@@ -21,13 +21,6 @@
 </details>
 
 <details>
-<summary>📚 Recent Coding Habits</summary>
-
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
-
-</details>
-
-<details>
 
 <summary>📑 Latest Blog Posts</summary>
 
