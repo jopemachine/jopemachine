@@ -18,7 +18,7 @@ jobs:
           # Gist option
           filename: metrics/base.svg
           config_output: gist
-          config_padding: 0, 4 + 4%
+          config_padding: 0, 8 + 5%
           committer_gist: 1013f1ecc0aab84223dd7a79cc020e27
           token: ${{ secrets.METRICS_TOKEN }}
 
