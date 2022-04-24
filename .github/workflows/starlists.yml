@@ -6,7 +6,10 @@ on:
   # schedule: [{cron: "0 * * * *"}]
 
   # Schedule updates (run every 72 hour)
-  schedule: [{cron: "0 0 */3 * *"}]
+  # schedule: [{cron: "0 0 */3 * *"}]
+
+  # Schedule updates (run every 1 week)
+  schedule: [{cron: "0 0 * * 0"}]
 
   workflow_dispatch:
 jobs:

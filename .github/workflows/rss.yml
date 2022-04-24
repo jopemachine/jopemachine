@@ -36,4 +36,4 @@ jobs:
 
           plugin_rss: yes
           plugin_rss_source: https://jopemachine.github.io/feed.xml
-          plugin_rss_limit: 8
+          plugin_rss_limit: 15
