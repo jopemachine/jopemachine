@@ -13,7 +13,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: jopemachine/metrics@latest 
+      - uses: jopemachine/metrics@latest
         with:
           # Gist option
           filename: metrics/base.svg
@@ -49,9 +49,3 @@ jobs:
 
           # plugin_discussions: yes
           # plugin_discussions_categories_limit: 8
-
-          plugin_wakatime: yes
-          plugin_wakatime_days: 30
-          plugin_wakatime_limit: 6
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
