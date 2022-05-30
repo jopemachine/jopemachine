@@ -16,7 +16,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: jopemachine/metrics@latest 
+      - uses: jopemachine/metrics@master
         with:
           # Gist option
           filename: metrics/habits.svg
