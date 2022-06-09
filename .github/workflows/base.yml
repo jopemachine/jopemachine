@@ -5,8 +5,8 @@ on:
   # Schedule updates (each hour)
   # schedule: [{cron: "0 * * * *"}]
 
-  # Schedule updates (run every 24 hour)
-  schedule: [{cron: "0 */24 * * *"}]
+  # Schedule updates (run every 12 hour)
+  schedule: [{cron: "0 */12 * * *"}]
 
   workflow_dispatch:
 jobs:
@@ -19,7 +19,7 @@ jobs:
           filename: metrics/base.svg
           config_output: gist
           # To avoid cutting off on Windows
-          config_padding: 0, 8 + 10%
+          config_padding: 0, 8 + 9%
           committer_gist: 1013f1ecc0aab84223dd7a79cc020e27
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -55,5 +55,5 @@ jobs:
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 6
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_languages_ignored: tmux, YAML, Markdown, git, Bash, Zsh, Image, JSON, XML, gitrebase, fish, Other, conf
+          plugin_wakatime_languages_ignored: tmux, YAML, Markdown, git, Bash, Zsh, Image, JSON, XML, gitrebase, fish, Other, conf, D, TOML, Text
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
