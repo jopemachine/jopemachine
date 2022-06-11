@@ -42,10 +42,10 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
-          plugin_languages_aliases: javascript:JS typescript:TS
-          plugin_languages_threshold: 1%
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
+          plugin_languages_details: lines
+          # plugin_languages_aliases: javascript:JS typescript:TS
+          # plugin_languages_threshold: 1%
+          # plugin_languages_limit: 4
 
           plugin_lines: yes
 
