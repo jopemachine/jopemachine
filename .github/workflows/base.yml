@@ -57,10 +57,10 @@ jobs:
           # plugin_discussions: yes
           # plugin_discussions_categories_limit: 8
 
-          plugin_wakatime: yes
-          plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_days: 30
-          plugin_wakatime_limit: 6
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_languages_ignored: tmux, YAML, Markdown, git, Bash, Zsh, Image, JSON, XML, gitrebase, fish, Other, conf, D, TOML, Text
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          # plugin_wakatime: yes
+          # plugin_wakatime_repositories_visibility: public
+          # plugin_wakatime_days: 30
+          # plugin_wakatime_limit: 6
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          # plugin_wakatime_languages_ignored: tmux, YAML, Markdown, git, Bash, Zsh, Image, JSON, XML, gitrebase, fish, Other, conf, D, TOML, Text
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
