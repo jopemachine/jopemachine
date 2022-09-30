@@ -2,41 +2,13 @@
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
 
-<details>
-<summary>🦄 Contributions</summary>
+## 🔥 Recent Activity
 
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/notable.svg)
+[![](https://github.com/jopemachine/jopemachine/blob/master/metrics/activity.svg)](https://gitstalk.netlify.app/jopemachine)
 
-- [👀 See this page for details](https://transparent-petalite-9c2.notion.site/df61758c0fb24bae86e8f4017ec1f8fb?v=a8c98280245544419ef8b81972bd30fe)
-
-</details>
-
-<details>
-<summary>🔥 Recent Activity</summary>
-
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/activity.svg)
-
-- [👀 See this page for details](https://gitstalk.netlify.app/jopemachine)
-
-</details>
-
-<details>
-
-<summary>📑 Latest Blog Posts</summary>
+## 📑 Latest Blog Posts
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
-
-</details>
-
-<details>
-
-<summary>📦 NPM packages</summary>
-
-- [👀 See this page for details](https://github.com/jopemachine/npm-stats)
-
-</details>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jopemachine&count_private=true&show_icons=true)-->
 
 ## Contacts
 
