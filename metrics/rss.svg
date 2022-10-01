@@ -20,7 +20,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - JavaScript execution context — lexical environment and block scope (part 3)</div>
+                                <div class="title">번역 - Lexical Environment, 클로저를 이해하기 위한 숨겨진 조각</div>
+                                <div class="date">30 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">번역 - JavaScript의 내부 작동 원리, 입문자를 위한 설명</div>
+                                <div class="date">30 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">번역 - JavaScript 실행 컨텍스트 — lexical environment와 block scope (part 3)</div>
                                 <div class="date">29 Sept 2022</div>
                             </div>
                         </div>
@@ -38,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - The JavaScript framework war is over</div>
+                                <div class="title">번역 - JavaScript 프레임워크 전쟁은 끝났다.</div>
                                 <div class="date">27 Sept 2022</div>
                             </div>
                         </div>
@@ -47,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - Goodbye Node JS</div>
+                                <div class="title">번역 - 굿 바이, Node.JS</div>
                                 <div class="date">27 Sept 2022</div>
                             </div>
                         </div>
@@ -56,7 +74,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - Avoid Using Array Index for Key in React</div>
+                                <div class="title">번역 - React에서 배열 인덱스를 Key로 사용하는 것을 피하세요</div>
                                 <div class="date">25 Sept 2022</div>
                             </div>
                         </div>
@@ -65,7 +83,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - Understanding Javascript Generators and Iterators</div>
+                                <div class="title">번역 - Javascript Generators와 Iterators 이해하기</div>
                                 <div class="date">25 Sept 2022</div>
                             </div>
                         </div>
@@ -74,7 +92,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - JavaScript execution context — from compiling to execution (part 1)</div>
+                                <div class="title">번역 - JavaScript 실행 컨텍스트 — 컴파일부터 실행까지 (part 1)</div>
                                 <div class="date">25 Sept 2022</div>
                             </div>
                         </div>
@@ -83,7 +101,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">번역 - How V8 Javascript Engine works step by step</div>
+                                <div class="title">번역 - V8 Javascript 엔진의 단계 별 작동 방식</div>
                                 <div class="date">24 Sept 2022</div>
                             </div>
                         </div>
@@ -130,24 +148,6 @@
                             <div class="infos">
                                 <div class="title">Git ~과 ^의 차이</div>
                                 <div class="date">8 Dec 2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Git 푸시하지 않은 커밋 확인</div>
-                                <div class="date">1 Dec 2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Git 이미 커밋된 파일 추적 중지하기</div>
-                                <div class="date">1 Dec 2021</div>
                             </div>
                         </div>
                     </section>
