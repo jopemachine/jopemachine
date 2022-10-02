@@ -8,9 +8,11 @@
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/activity.svg)](https://gitstalk.netlify.app/jopemachine)
 -->
 
+<!-- 
 ## 📑 Latest Blog Posts
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
+-->
 
 ## Contacts
 
