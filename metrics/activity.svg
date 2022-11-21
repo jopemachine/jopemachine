@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="952" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="951" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,40 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#83 Rewrite in Ink</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jopemachine in <span class="repo">sindresorhus/fkill-cli</span></div>
+                                    <div class="comment">
+                                        <i>Check the output whether it's ESM or CJS. You may have set the modules option per the Babel comment.</i>
+                                        I'm not sure what is the Babel comment you mentioned, although the output is ESM.
+                                        <i>Just add a TODO comment about fixing it when Ink properly supports ESM.</i>
+                                        I think this is not required since
+                                        <code>ink-text-input</code>
+                                        ,
+                                        <code>ink-select-input</code>
+                                        are not used now.
+                                        <i>I think we can live without these for now. We'll just open new issues about fixing it at some point.</i>
+                                        I copy and pasted the above two repositories' source code and patched the
+                                        <code>ink-text-input</code>
+                                        for support delete, option key features in https://github.com/sindresorhus/fkill-cli/pull/83/commits/b157fd69c0cb59cdb3b1294d62328d255964cae4.
+                                        <i>Yes, that should ideally work. Not sure when it broke.</i>
+                                        I'm not sure about the cause but I checked this feature worked normally in 5.2.0, but broke in 6.0.0, maybe inquirer 7's default behavior change? I added the feature since I don't see port-searching related code.
+I'd appreciate your letting me know if there's anything else I could help.
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Nov 2022, 23:12:21</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -224,32 +258,6 @@ but unfortunately I'm not sure how much time I can spend on this for now because
                                     </div>
                                 </div>
                                 <div class="timestamp">27 Oct 2022, 18:50:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#4226 Fix lambda expression's  unexpected `UnboundLocalError`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jopemachine in <span class="repo">RustPython/RustPython</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            awesome, would you add the example code in #3934 under
-                                            <code>extra_tests/snippets</code>
-                                            ?
-                                        </i>
-                                        Sure, I added the issue's example code directly.
-If I should add more extra tests, please let me know for more work.
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2022, 10:02:31</div>
                             </section>
                         </div>
                     </section>
