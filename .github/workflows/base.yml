@@ -31,17 +31,19 @@ jobs:
           # Options
           user: jopemachine
           template: classic
-          base: activity, community, repositories
-
+          # base: activity, community, repositories
+          base: activity, repositories
+          
           config_timezone: Asia/Seoul
-          config_order: base.header, base.repositories, base.activity+community, languages, wakatime
+          # config_order: base.header, base.repositories, base.activity+community, languages
+          config_order: base.header, base.repositories, base.activity, languages
           config_twemoji: yes
 
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: >-
             html, scss, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, hack, applescript
+            gnuplot, hack, applescript, RenderScript
           plugin_languages_details: percentage
           # plugin_languages_aliases: javascript:JS typescript:TS
           # plugin_languages_threshold: 1%
