@@ -29,7 +29,7 @@ jobs:
           # Options
           user: jopemachine
           template: classic
-          # base: activity, community, repositories
+          base: ""
 
           config_timezone: Asia/Seoul/
           config_order: languages
