@@ -1,8 +1,12 @@
-# 💬 About me
+# About me
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
 
-## 📑 Latest Blog Posts
+## Most used languages
+
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/language.svg)
+
+## Latest Blog Posts
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
 
