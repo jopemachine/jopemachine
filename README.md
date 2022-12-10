@@ -1,18 +1,22 @@
 # About me
 
-
-
-## OSS Contribution Metrics
+<details>
+<summary>OSS Contribution Metrics</summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
+</details>
 
-## Most used languages
+<details>
+<summary>Most used languages</summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/language.svg)
+</details>
 
-## Latest Blog Posts
+<details>
+<summary>Latest Blog Posts</summary>
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
+</details>
 
 ## Contacts
 
