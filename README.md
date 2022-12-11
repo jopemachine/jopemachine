@@ -2,7 +2,7 @@
 
 :wave: Hello, I'm a passionate junior developer, always into various technical things.
 
-:heart: debugging something, making something useful.
+:heart: Debugging, making something useful.
 
 ## Some Metrics about me
 
