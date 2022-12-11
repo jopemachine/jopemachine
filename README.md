@@ -1,6 +1,6 @@
 # About me
 
-:wave: Hello, I'm a passionate junior developer, always into various technical-things recently.
+:wave: I'm a passionate junior developer, always into various technical-things recently.
 
 :heart: Debugging, making something useful.
 
