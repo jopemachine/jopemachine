@@ -24,6 +24,13 @@
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
 </details>
 
+<details>
+<summary>Recent Coding Habits</summary>
+
+![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
+</details>
+
+
 ## Contacts
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jopemachine.github.io/)](https://jopemachine.github.io/)
