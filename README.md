@@ -1,5 +1,12 @@
 # About me
 
+:wave: Hello, I'm a passionate junior developer, always into various technical things.
+
+> :heart: debugging, making something useful, and reading, discussing technical topics.
+
+
+## Some Metrics about me
+
 <details>
 <summary>OSS Contribution Metrics</summary>
 
@@ -13,7 +20,7 @@
 </details>
 
 <details>
-<summary>Latest Blog Posts</summary>
+<summary>My Latest Blog Posts</summary>
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
 </details>
