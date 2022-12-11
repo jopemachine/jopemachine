@@ -1,13 +1,15 @@
 # About me
 
-:wave: Hello, I'm a passionate junior developer, always into various technical things.
+:wave: Hello, I'm a passionate junior developer, always into various technical-things recently.
 
 :heart: Debugging, making something useful.
+
+<!-- :fire: Aims to be -->
 
 ## Some Metrics about me
 
 <details>
-<summary>OSS Contribution Metrics</summary>
+<summary>OSS contribution metrics</summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
 </details>
@@ -19,17 +21,16 @@
 </details>
 
 <details>
-<summary>My Latest Blog Posts</summary>
+<summary>My latest blog posts</summary>
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
 </details>
 
 <details>
-<summary>Recent Coding Habits</summary>
+<summary>Recent coding habits</summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
 </details>
-
 
 ## Contacts
 
@@ -37,6 +38,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyu-bong-lee-a1a76b197/)](https://www.linkedin.com/in/gyubong-lee-a1a76b197/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jopemachine@naver.com)](mailto:jopemachine@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jopemachine@gmail.com)](mailto:jopemachine@gmail.com)
+
+<!-- Tip: You can always find me on Github. -->
 
 <!-- <a href="https://twitter.com/jopemachine">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="height: 21px;" />
