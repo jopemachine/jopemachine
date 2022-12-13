@@ -14,7 +14,7 @@
 ## Some Metrics about me
 
 <details>
-  <summary>:octocat: <b>OSS contribution metrics</b></summary>
+<summary>:octocat: <b>OSS contribution metrics</b></summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
 </details>
