@@ -14,19 +14,19 @@
 ## Some Metrics about me
 
 <details>
-<summary>:octocat: OSS contribution metrics</summary>
+  <summary>:octocat: <b>OSS contribution metrics</b></summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
 </details>
 
 <details>
-<summary>:toolbox: Most used languages</summary>
+<summary>:toolbox: <b>Most used languages</b></summary>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/language.svg)
 </details>
 
 <details>
-<summary>:pen: My latest blog posts</summary>
+<summary>:pen: <b>My latest blog posts</b></summary>
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
 </details>
