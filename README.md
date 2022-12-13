@@ -1,8 +1,8 @@
-# About me
+![About me](https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,25:0077b6,50:00b4d8,75:90e0ef,100:caf0f8&text=Gyubong%20Lee&fontAlign=25&fontAlignY=32&height=150&fontSize=50&fontColor=ffffff)
 
-:wave: I'm a passionate junior developer, always into various technical-things recently.
+* :wave: I'm a passionate junior developer, always into various technical-things recently.
 
-:heart: Debugging, making something useful.
+* :heart: Debugging, making something useful.
 
 <!-- :fire: Aims to be -->
 
