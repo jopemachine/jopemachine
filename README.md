@@ -5,36 +5,34 @@
 [![Naver Mail Badge](https://img.shields.io/badge/mailto:jopemachine@naver.com-2DB400?style=flat-square&logoColor=white&link=mailto:jopemachine@naver.com)](mailto:jopemachine@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jopemachine@gmail.com)](mailto:jopemachine@gmail.com)
 
-:wave: I'm a passionate junior developer, always into various technical-things recently.
+### About me
 
-:heart: Debugging, making something useful.
+* :wave: I'm a passionate junior developer, always into various technical-things recently.
 
-<!-- :fire: Aims to be -->
+* :heart: Debugging, making something useful.
 
-## Some Metrics about me
+* :fire: Aims to be more growing up all along.
 
 <details>
-<summary>:octocat: <b>OSS contribution metrics</b></summary>
+<summary><b>Some Metrics about me</b></summary>
+  
+#### :octocat: <b>OSS contribution metrics</b>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
-</details>
-
-<details>
-<summary>:toolbox: <b>Most used languages</b></summary>
+  
+#### :toolbox: <b>Most used languages</b>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/language.svg)
-</details>
 
-<details>
-<summary>:pen: <b>My latest blog posts</b></summary>
+#### :pen: <b>My latest blog posts</b>
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
-</details>
-
-<details>
-<summary>Recent coding habits</summary>
-
+  
+  
+#### Recent coding habits
+  
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
+  
 </details>
 
 <!-- ## Contact -->
