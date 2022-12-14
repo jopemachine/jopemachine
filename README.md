@@ -9,11 +9,11 @@
 
 * :wave: I'm a passionate junior developer, **always into various technical-things** recently.
 
-* :heart: Debugging, making something useful.
+* :heart: Debugging, and making something useful.
 
 * :fire: Aims to be **more growing** up all along.
 
-* :unicorn: I believe OSS contributions make world better.
+* :unicorn: I believe OSS contributions **make world better**.
 
 <details>
 <summary><b>Check my metrics</b></summary>
