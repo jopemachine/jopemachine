@@ -13,8 +13,10 @@
 
 * :fire: Aims to be more growing up all along.
 
+* :unicorn: I believe in OSS contribution make world better.
+
 <details>
-<summary><b>Some Metrics about me</b></summary>
+<summary><b>Check my metrics</b></summary>
   
 #### :octocat: <b>OSS contribution metrics</b>
 
