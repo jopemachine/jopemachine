@@ -5,8 +5,6 @@
 [![Naver Mail Badge](https://img.shields.io/badge/mailto:jopemachine@naver.com-2DB400?style=flat-square&logoColor=white&link=mailto:jopemachine@naver.com)](mailto:jopemachine@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jopemachine@gmail.com)](mailto:jopemachine@gmail.com)
 
-### About me
-
 * :wave: I'm a passionate junior developer, **always into various technical-things** recently.
 
 * :heart: Debugging, and making something useful.
@@ -16,12 +14,13 @@
 * :unicorn: I believe OSS contributions **make world better**.
 
 <details>
+
 <summary><b>Check my metrics</b></summary>
-  
+
 ##### :octocat: <b>OSS contribution metrics</b>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
-  
+
 ##### :toolbox: <b>Most used languages</b>
 
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/language.svg)
@@ -29,12 +28,11 @@
 ##### :pen: <b>My latest blog posts</b>
 
 [![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
-  
-  
+
 ##### Recent coding habits
-  
+
 ![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
-  
+
 </details>
 
 <!-- ## Contact -->
