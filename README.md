@@ -7,11 +7,11 @@
 
 * :wave: I'm a passionate junior developer, **always into various technical-things** recently.
 
-* :heart: Debugging, and making something useful.
-
-* :fire: Aims to be **more growing** up all along.
+* :heart: I love debugging, and making something useful.
 
 * :unicorn: I believe OSS contributions **make world better**.
+
+* :fire: Aims to be **more growing** up all along.
 
 <details>
 
