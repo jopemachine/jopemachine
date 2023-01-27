@@ -13,28 +13,6 @@
 
 * :fire: Aims to be **more growing** up all along.
 
-<details>
-
-<summary><b>Check my metrics</b></summary>
-
-##### :octocat: <b>OSS contribution metrics</b>
-
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/base.svg)
-
-##### :toolbox: <b>Most used languages</b>
-
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/language.svg)
-
-##### :pen: <b>My latest blog posts</b>
-
-[![](https://github.com/jopemachine/jopemachine/blob/master/metrics/rss.svg)](https://jopemachine.github.io/)
-
-##### Recent coding habits
-
-![](https://github.com/jopemachine/jopemachine/blob/master/metrics/habits.svg)
-
-</details>
-
 <!-- ## Contact -->
 
 <!-- Tip: You can always find me on Github. -->
