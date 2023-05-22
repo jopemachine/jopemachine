@@ -9,12 +9,3 @@
 * :unicorn: I believe that OSS contributions can make the world a better place.
 
 * :fire: I am dedicated to ongoing growth, constantly putting in efforts to enhance my skills and knowledge day and night.
-
-<!-- ## Contact -->
-
-<!-- Tip: You can always find me on Github. -->
-
-<!-- <a href="https://twitter.com/jopemachine">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="height: 21px;" />
-</a>
- -->
