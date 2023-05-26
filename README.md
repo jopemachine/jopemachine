@@ -1,6 +1,4 @@
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jopemachine.github.io/)](https://jopemachine.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyu-bong-lee-a1a76b197/)](https://www.linkedin.com/in/gyubong-lee-a1a76b197/)
-[![Naver Mail Badge](https://img.shields.io/badge/mailto:jopemachine@naver.com-2DB400?style=flat-square&logoColor=white&link=mailto:jopemachine@naver.com)](mailto:jopemachine@naver.com)
+# Gyubong Lee
 
 * :wave: Hello! I am a passionate junior DevOps engineer. I'm always interested in various technical things.
 
