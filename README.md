@@ -1,10 +1,12 @@
 # Gyubong Lee
 
-* :wave: Hello! I am a passionate DevOps Engineer working in [Lablup](https://www.lablup.com/). I'm always interested in various technical things.
+Passionate DevOps Engineer working in [Lablup](https://www.lablup.com/)
 
-* :heart: I enjoy debugging and creating useful things no matter what kind of technology it is.
+* Always interested in various technical things.
 
-* :unicorn: I believe all kinds of OSS contributions can make the world better.
+* Enjoy debugging and creating useful things no matter what kind of technology it is.
+
+* I believe all kinds of OSS contributions can make the world better.
 
 ## Latest work
 
