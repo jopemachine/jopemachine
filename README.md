@@ -12,4 +12,4 @@ Passionate DevOps Engineer working in [Lablup](https://www.lablup.com/).
 
 * https://github.com/lablup/rraft-py
 
-* https://github.com/lablup/riteraft-py
+* https://github.com/lablup/riteraft-ng
